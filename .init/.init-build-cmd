@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/tmp/kavia/workspace/code-generation/static-twitter-mockup-3342-3351/twitter_like_frontend"
+}
